@@ -1,0 +1,104 @@
+[[LibVPX]]
+arch = "x86_64"
+git-tree-sha1 = "7d70851c23d5b45643a3214adf999af0ed39a2fe"
+os = "macos"
+
+    [[LibVPX.download]]
+    sha256 = "b3b6446e2c0fd05c0e1ffd5a6af48876582373391935d8a74bace538c04e5e31"
+    url = "https://github.com/JuliaBinaryWrappers/LibVPX_jll.jl/releases/download/LibVPX-v1.8.0+0/LibVPX.v1.8.0.x86_64-apple-darwin14.tar.gz"
+[[LibVPX]]
+arch = "i686"
+git-tree-sha1 = "c480b148f97593e30df2d7f8b8e2eb1a80d60110"
+libc = "glibc"
+os = "linux"
+
+    [[LibVPX.download]]
+    sha256 = "57b027fd1f4231d1b2091111f1ec4ce4d6647c26620eb40837716bf3a0b708ff"
+    url = "https://github.com/JuliaBinaryWrappers/LibVPX_jll.jl/releases/download/LibVPX-v1.8.0+0/LibVPX.v1.8.0.i686-linux-gnu.tar.gz"
+[[LibVPX]]
+arch = "x86_64"
+git-tree-sha1 = "c2994a2077199fa900b58251d51f0afd00b64a1e"
+os = "freebsd"
+
+    [[LibVPX.download]]
+    sha256 = "5ac3031c8450219f03d937e726c7a40af43555aaa58312f051cf775ac1eaefcf"
+    url = "https://github.com/JuliaBinaryWrappers/LibVPX_jll.jl/releases/download/LibVPX-v1.8.0+0/LibVPX.v1.8.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[LibVPX]]
+arch = "x86_64"
+git-tree-sha1 = "d11a6fa7b0188e5cabc6702fb22c30a613831b3c"
+libc = "musl"
+os = "linux"
+
+    [[LibVPX.download]]
+    sha256 = "239b7f3ebc07648fba8b5a5b67606bacc2d8205b5996291159fc12ef2759988d"
+    url = "https://github.com/JuliaBinaryWrappers/LibVPX_jll.jl/releases/download/LibVPX-v1.8.0+0/LibVPX.v1.8.0.x86_64-linux-musl.tar.gz"
+[[LibVPX]]
+arch = "x86_64"
+git-tree-sha1 = "8f6934391b1079cd7e832c1a0e76a109131fdef7"
+libc = "glibc"
+os = "linux"
+
+    [[LibVPX.download]]
+    sha256 = "1e9a19369c202517ce272666bd0f5ee7f92315fc01f58d582d581b07e72ddd21"
+    url = "https://github.com/JuliaBinaryWrappers/LibVPX_jll.jl/releases/download/LibVPX-v1.8.0+0/LibVPX.v1.8.0.x86_64-linux-gnu.tar.gz"
+[[LibVPX]]
+arch = "x86_64"
+git-tree-sha1 = "98e82c309bc7a0f5bab984b7f107ebdb9244b225"
+os = "windows"
+
+    [[LibVPX.download]]
+    sha256 = "83a46c7e0d5c785601a5938cc0475bb0dd1a19d023f1e568da136fa70fe12bd9"
+    url = "https://github.com/JuliaBinaryWrappers/LibVPX_jll.jl/releases/download/LibVPX-v1.8.0+0/LibVPX.v1.8.0.x86_64-w64-mingw32.tar.gz"
+[[LibVPX]]
+arch = "aarch64"
+git-tree-sha1 = "06c6469bff60dd6f627f7ed9715436e08f403abb"
+libc = "musl"
+os = "linux"
+
+    [[LibVPX.download]]
+    sha256 = "18bd94ab8f044e60ab2866a10b56d8f2987f019eedcdf6ced10f110043146d74"
+    url = "https://github.com/JuliaBinaryWrappers/LibVPX_jll.jl/releases/download/LibVPX-v1.8.0+0/LibVPX.v1.8.0.aarch64-linux-musl.tar.gz"
+[[LibVPX]]
+arch = "armv7l"
+git-tree-sha1 = "92aa64904e5e19283e60c3ce38c3ac942b5e6b22"
+libc = "glibc"
+os = "linux"
+
+    [[LibVPX.download]]
+    sha256 = "2d89c4777fedaca4e67b37e1b7272898a42aa4085a2b97540ebf0ccb48e5e694"
+    url = "https://github.com/JuliaBinaryWrappers/LibVPX_jll.jl/releases/download/LibVPX-v1.8.0+0/LibVPX.v1.8.0.arm-linux-gnueabihf.tar.gz"
+[[LibVPX]]
+arch = "i686"
+git-tree-sha1 = "9ea8ffc52f4683fae3d423c268eb6f29d09c126c"
+libc = "musl"
+os = "linux"
+
+    [[LibVPX.download]]
+    sha256 = "08e823b7cb3595fe2498fbc23af4440f44f8fef30def38597bc85ad9ca102bb0"
+    url = "https://github.com/JuliaBinaryWrappers/LibVPX_jll.jl/releases/download/LibVPX-v1.8.0+0/LibVPX.v1.8.0.i686-linux-musl.tar.gz"
+[[LibVPX]]
+arch = "armv7l"
+git-tree-sha1 = "280810be99b874d846993c1c8e3fa3ae4df45a04"
+libc = "musl"
+os = "linux"
+
+    [[LibVPX.download]]
+    sha256 = "8c7e3fee058d6bae0cb27151b6f6fa947a9660aa88ea7f526f9e06426cda55bc"
+    url = "https://github.com/JuliaBinaryWrappers/LibVPX_jll.jl/releases/download/LibVPX-v1.8.0+0/LibVPX.v1.8.0.arm-linux-musleabihf.tar.gz"
+[[LibVPX]]
+arch = "aarch64"
+git-tree-sha1 = "6625debf7e4e4f8c06501ed9afe1d5d0f8ca589b"
+libc = "glibc"
+os = "linux"
+
+    [[LibVPX.download]]
+    sha256 = "c7eba0b0b827a764050e131b75403b3901471dd47e94d3dd56846575d5f2af16"
+    url = "https://github.com/JuliaBinaryWrappers/LibVPX_jll.jl/releases/download/LibVPX-v1.8.0+0/LibVPX.v1.8.0.aarch64-linux-gnu.tar.gz"
+[[LibVPX]]
+arch = "i686"
+git-tree-sha1 = "72a9d00026f4d3cca6460d56d1b0228ef0957411"
+os = "windows"
+
+    [[LibVPX.download]]
+    sha256 = "e66fd98dbd0352ce02f84b64a3cd871da9d09b4e1abb3cf5bcd538b8a80ff791"
+    url = "https://github.com/JuliaBinaryWrappers/LibVPX_jll.jl/releases/download/LibVPX-v1.8.0+0/LibVPX.v1.8.0.i686-w64-mingw32.tar.gz"
